@@ -2,3 +2,5 @@ prepare
 shower
 play
 Fix
+delete
+troubleshoot
